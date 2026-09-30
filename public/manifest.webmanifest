@@ -1,0 +1,9 @@
+{
+  "name": "Walkers World TV Growth Monitor",
+  "short_name": "WWTV Monitor",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101820",
+  "theme_color": "#0085CA",
+  "description": "Walkers World TV YouTube growth command center"
+}
